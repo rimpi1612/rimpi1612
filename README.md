@@ -25,7 +25,7 @@ A greenfield multi-tenant platform in **Go, React and PostgreSQL**, as the only 
 
 ## Tools
 
-Go · PHP · TypeScript · Python · PostgreSQL · MySQL
+PHP · TypeScript · Python · PostgreSQL · MySQL
 
 ## Contact
 
